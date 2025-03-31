@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 A passionate ML & Embedded systems engineer 🌟
 
 
