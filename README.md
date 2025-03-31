@@ -12,8 +12,7 @@ A passionate ML & Embedded systems engineer 🌟
 ![](https://nirzak-streak-stats.vercel.app/?user=Seif1925&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seif1925&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Seif1925&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Seif1925&icon=0&color=0)](https://visitcount.itsvg.in)
